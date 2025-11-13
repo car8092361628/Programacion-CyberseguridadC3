@@ -1,0 +1,12 @@
+tupla=(1,2,3,4,5,6,2,4,6,6)
+fecha=(25,"Diciembre",2025)
+coordenadas=(10,2)
+persona=("Rodriguez", "Pablo",43)
+
+print(tupla.count(6))
+print(len(tupla))
+print(max(tupla))
+print(min(tupla))
+print(sum(tupla))
+print(sorted(tupla))
+print(reversed(tupla))
